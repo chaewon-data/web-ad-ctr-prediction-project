@@ -10,8 +10,8 @@
 - 링크: https://dacon.io/competitions/official/236258/data
 
 파일:
-- train.csv (6.96GB)
-- test.csv (1.08GB)
+- train.csv (6.97GB)
+- test.csv (1.09GB)
 
 다운로드 후 프로젝트 폴더에 저장하세요.
 
