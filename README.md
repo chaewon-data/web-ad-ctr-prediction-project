@@ -6,7 +6,7 @@
 - **최종 결과**: Public Leaderboard **27위 / 1,150명 (상위 2.3%)**, AUC **0.78079**
 ---
 
-## 📁 프로젝트 구조
+## 프로젝트 구조
 ```
 ctr-prediction-portfolio/
 ├── README.md                    # 프로젝트 설명 및 결과
