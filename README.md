@@ -5,6 +5,16 @@
 - **대회**: [Dacon - 웹 광고 클릭률 예측 AI 경진대회](https://dacon.io/competitions/official/236258/overview/description)
 - **최종 결과**: Public Leaderboard **27위 / 1,150명 (상위 2.3%)**, AUC **0.78079**
 ---
+## 🛠️ 기술 스택
+**개발 환경**
+- Google Colab Pro (GPU: A100)
+- Python 3
+
+**주요 라이브러리**
+- `pandas 2.2.2` - 데이터 처리
+- `numpy 2.0.2` - 수치 연산
+- `scikit-learn 1.6.1` - 데이터 분할, 평가 지표
+- `xgboost 3.1.2` - 모델링 (GPU 가속)
 
 ## 프로젝트 구조
 ```
