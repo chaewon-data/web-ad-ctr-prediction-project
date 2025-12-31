@@ -59,7 +59,7 @@ ctr-prediction-portfolio/
 - Train: **41.97 GB → 4.58 GB (89.1% 감소)**
 - Test: **6.63 GB → 0.83 GB (87.5% 감소)**
 
-### 4. 피처 엔지니어링
+### 4. 전처리
 **Target Encoding**
 - K-Fold Cross-Validation (5-fold) 적용으로 overfitting 방지
 - Smoothing (α=10) 적용
