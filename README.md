@@ -8,20 +8,12 @@
 다음에서 다운로드하세요:
 - 대회: 웹 광고 클릭률 예측 AI 경진대회
 - 링크: https://dacon.io/competitions/official/236258/data
-
-파일:
-- train.csv (6.97GB)
-- test.csv (1.09GB)
-
-다운로드 후 프로젝트 폴더에 저장하세요.
-
 ## 성과
 - 순위: 29등 / 1,146팀
 - 상위: 2.5%
 - 점수: AUC 0.78026
 ## 사용 기술
 - Python
-- LightGBM
 - XGBoost
 - Pandas
 ## 파일 설명
