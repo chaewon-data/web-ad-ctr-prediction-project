@@ -31,9 +31,9 @@ ctr-prediction-portfolio/
 
 ## 데이터
 **데이터 규모**
-- Train: 28,605,391 rows × 40 features 
-- Test: 4,538,541 rows × 39 features 
-- Click rate: 0.1947
+✓ train.csv: (28605391, 41)
+✓ test.csv: (4538541, 40)
+✓ sample_submission.csv: (4538541, 2)
 
 **데이터 다운로드**
 > 데이터는 용량이 커서 GitHub에 포함되지 않았습니다.  
