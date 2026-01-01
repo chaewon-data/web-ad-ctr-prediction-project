@@ -61,7 +61,7 @@ ctr-prediction-portfolio/
 2. **범주형 변수 변환**: `object` → `category`
    - Train: 41.97 GB → 6.20 GB (85.2% 감소)
    - Test: 6.63 GB → 1.06 GB (84.0% 감소)
-3. **수치형 다운캐스팅**: `float64` → `float32`, `int64` → downcast
+3. **수치형 다운캐스팅**: `float64` → `float32`, 'int64' → 'int32/int16/int8'
    - Train: 6.20 GB → 4.58 GB (26.2% 추가 감소)
    - Test: 1.06 GB → 0.83 GB (22.3% 추가 감소)
 
