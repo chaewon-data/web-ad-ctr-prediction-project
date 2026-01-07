@@ -108,5 +108,4 @@ ctr-prediction-portfolio/
 ---
 
 ## 최종 결과
-"CTR Prediction Competition - 22위/1,150명 (상위 1.9%) 달성"
 Private AUC: 0.7809 | Public AUC: 0.7808
