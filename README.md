@@ -3,7 +3,7 @@
 
 - **프로젝트 기간**: 2025.11 ~ 2025.12
 - **대회**: [Dacon - 웹 광고 클릭률 예측 AI 경진대회](https://dacon.io/competitions/official/236258/overview/description)
-- **최종 결과**: Public Leaderboard **27위 / 1,150명 (상위 2.3%)**, AUC **0.78079**
+- **최종 결과**: "CTR Prediction Competition - 22위/1,150명 (상위 1.9%) 달성"
 ---
 ## 기술 스택
 **개발 환경**
