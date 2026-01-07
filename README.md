@@ -73,7 +73,7 @@ ctr-prediction-portfolio/
 **Target Encoding**
 - K-Fold Cross-Validation (5-fold) 적용으로 overfitting 방지
 - Smoothing (α=10) 적용
-- 범주형 변수 22개 인코딩
+- 범주형 변수 인코딩
 
 ### 5. 모델링
 **Train/Validation Split**
